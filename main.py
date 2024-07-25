@@ -1,0 +1,2 @@
+from Selection.selectMenu.form_login_designer import FormLoginDesigner
+FormLoginDesigner()
